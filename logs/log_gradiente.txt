@@ -1,0 +1,101 @@
+--------------------------F1
+
+Metodo Gradiente
+Numero de iteracoes: 200
+
+Tempo de execucao: 0.148283
+
+Valor de x encontrado:
+
+  -1.4999934
+   0.9999976
+
+Valor de f(x): -3.250000
+
+--------------------------F2
+
+Metodo Gradiente
+Numero de iteracoes: 200
+
+Tempo de execucao: 0.249156
+
+Valor de x encontrado:
+
+  -0.0000050
+  -0.000005
+   0.0000051
+
+Valor de f(x): 0.000000
+
+--------------------------F3
+
+Metodo Gradiente
+Numero de iteracoes: 200
+
+Tempo de execucao: 0.197085
+
+Valor de x encontrado:
+
+  -0.0000094
+  -0.0000006
+  -0.0000032
+   0.0000003
+
+Valor de f(x): 0.000000
+
+--------------------------F4
+
+Metodo Gradiente
+Numero de iteracoes: 179
+
+Tempo de execucao: 0.018303
+
+Valor de x encontrado:
+
+  -0.0000050
+   0.0018068
+
+Valor de f(x): 0.000000
+
+--------------------------F5
+
+Metodo Gradiente
+Numero de iteracoes: 3
+
+Tempo de execucao: 0.000420
+
+Valor de x encontrado:
+
+  -0.0000050
+  -0.0000050
+
+Valor de f(x): 0.000000
+
+--------------------------F6
+
+Metodo Gradiente
+Numero de iteracoes: 200
+
+Tempo de execucao: 0.169909
+
+Valor de x encontrado:
+
+   0.9999787
+   3.0000237
+
+Valor de f(x): 0.000000
+
+--------------------------F7
+
+Metodo Gradiente
+Numero de iteracoes: 3
+
+Tempo de execucao: 0.001298
+
+Valor de x encontrado:
+
+  -0.0000038
+  -0.0000038
+
+Valor de f(x): 0.000000
+

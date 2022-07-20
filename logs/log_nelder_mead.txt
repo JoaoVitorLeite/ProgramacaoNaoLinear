@@ -1,0 +1,77 @@
+--------------------------F1
+
+Numero de iteracoes : 41
+Tempo de execucao : 0.004024
+
+Solucao : 
+
+  -1.5000639   0.9998306
+
+Valor da funcao: -3.250000
+
+--------------------------F2
+
+Numero de iteracoes : 187
+Tempo de execucao : 0.028881
+
+Solucao : 
+
+   0.0000534  -0.0004107   0.0003056
+
+Valor da funcao: 0.000000
+
+
+--------------------------F3
+
+Numero de iteracoes : 87
+Tempo de execucao : 0.010507
+
+Solucao : 
+
+   0.0001414  -0.0004057  -0.0008879   0.0009218
+
+Valor da funcao: 0.000002
+
+--------------------------F4
+
+Numero de iteracoes : 25
+Tempo de execucao : 0.002433
+
+Solucao : 
+
+  -0.0000259   0.0022835
+
+Valor da funcao: 0.000000
+
+--------------------------F5
+
+Numero de iteracoes : 50
+Tempo de execucao : 0.004679
+
+Solucao : 
+
+  -0.0000155   0.0000525
+
+Valor da funcao: 0.000000
+
+--------------------------F6
+
+Numero de iteracoes : 53
+Tempo de execucao : 0.006363
+
+Solucao : 
+
+   1.000027   2.9999639
+
+Valor da funcao: 0.000000
+
+--------------------------F7
+
+Numero de iteracoes : 48
+Tempo de execucao : 0.006294
+
+Solucao : 
+
+  -0.0002609   0.0000458
+
+Valor da funcao: 0.000000

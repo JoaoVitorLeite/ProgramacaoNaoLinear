@@ -1,0 +1,93 @@
+--------------------------F1
+
+Numero de iteracoes: 200
+
+Tempo de execucao: 0.117506
+
+Valor de x encontrado:
+
+  -1.4999934
+   0.9999976
+
+Valor de f(x): -3.250000
+
+--------------------------F2
+
+Numero de iteracoes: 200
+
+Tempo de execucao: 0.520903
+
+Valor de x encontrado:
+
+  -0.0000043
+  -0.0000020
+   0.0000070
+
+Valor de f(x): 0.000000
+
+--------------------------F3
+
+Numero de iteracoes: 200
+
+Tempo de execucao: 0.209714
+
+Valor de x encontrado:
+
+  -0.0000094
+  -0.0000006
+  -0.0000032
+   0.0000003
+
+Valor de f(x): 0.000000
+
+--------------------------F4
+
+Numero de iteracoes: 200
+
+Tempo de execucao: 0.072287
+
+Valor de x encontrado:
+
+  -0.0000050
+   0.0001256
+
+Valor de f(x): 0.000000
+
+--------------------------F5
+
+Numero de iteracoes: 200
+
+Tempo de execucao: 0.237657
+
+Valor de x encontrado:
+
+   0.0000060
+  -0.0000041
+
+Valor de f(x): 0.000000
+
+--------------------------F6
+
+Numero de iteracoes: 200
+
+Tempo de execucao: 0.201041
+
+Valor de x encontrado:
+
+   0.9999982
+   3.0000061
+
+Valor de f(x): 0.000000
+
+--------------------------F7
+
+Numero de iteracoes: 200
+
+Tempo de execucao: 0.199821
+
+Valor de x encontrado:
+
+  -0.0000178
+  -0.0000149
+
+Valor de f(x): 0.000000

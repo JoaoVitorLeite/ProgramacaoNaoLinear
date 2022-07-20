@@ -1,0 +1,100 @@
+--------------------------F1
+
+Metodo Newton
+Numero de iteracoes: 200
+
+Tempo de execucao: 0.192471
+
+Valor de x encontrado:
+
+  -1.4999956
+   1.0000055
+
+Valor de f(x): -3.250000
+
+--------------------------F2
+
+Metodo Newton
+Numero de iteracoes: 200
+
+Tempo de execucao: 0.460747
+
+Valor de x encontrado:
+
+  -0.0000053
+   0.0000034
+   0.0000064
+
+Valor de f(x): 0.000000
+
+--------------------------F3
+
+Metodo Newton
+Numero de iteracoes: 200
+
+Tempo de execucao: 0.382406
+
+Valor de x encontrado:
+
+  -0.0000094
+  -0.0000006
+  -0.0000032
+   0.0000003
+
+Valor de f(x): 0.000000
+
+--------------------------F4
+
+Metodo Newton
+Numero de iteracoes: 13
+
+Tempo de execucao: 0.007125
+
+Valor de x encontrado:
+
+  -0.0000050
+   0.0009721
+
+Valor de f(x): 0.000000
+
+--------------------------F5
+
+Metodo Newton
+Numero de iteracoes: 3
+
+Tempo de execucao: 0.002104
+
+Valor de x encontrado:
+
+  -0.0000050
+  -0.0000050
+
+Valor de f(x): 0.000000
+
+--------------------------F6
+
+Metodo Newton
+Numero de iteracoes: 200
+
+Tempo de execucao: 0.228468
+
+Valor de x encontrado:
+
+   0.9999912
+   3.0000073
+
+Valor de f(x): 0.000000
+
+--------------------------F7
+
+Metodo Newton
+Numero de iteracoes: 3
+
+Tempo de execucao: 0.001750
+
+Valor de x encontrado:
+
+  -0.0000650
+  -0.0000650
+
+Valor de f(x): 0.000000
